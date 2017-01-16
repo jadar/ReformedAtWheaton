@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Jacob Rhoda! I am an undergrad at Wheaton College majoring in Computer Science, but I'm also passionate about Reformed Theology. It's something that's influenced me for all my life, and it never ceases to amaze me. 
 
-I'm keeping this blog to organize my thoughts on Reformed Theology at Wheaton. Coming here, I knew there wouldn't be a large Reformed prescence on campus, but this fact really started to sink in the longer I was here. My hope is that through this blog I can engage a constructive discussion about true, biblical theology in this community in order to grow together in our knowledge, respect, reverence, and love for God, His holiness, and Jesus. All for His Kingdom. Semper Reformanda.
+I'm keeping this blog to organize my thoughts on Reformed Theology and in particular how it applies at Wheaton. My hope is that through this blog I can engage a constructive discussion about true, biblical theology in this community in order to grow together in our knowledge, respect, reverence, and love for God, His holiness, and Jesus Christ. All for His Kingdom. Semper Reformanda.
 
 ## Beliefs
   

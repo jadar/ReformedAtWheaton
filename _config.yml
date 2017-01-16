@@ -1,14 +1,14 @@
 permalink   : /:categories/:year/:title/
 markdown    : kramdown
-highlighter : pygments
-gems: [jekyll-paginate]
+highlighter : rouge
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 paginate: 2 #6
 comments: true
 paginate_path: "/page/:num"
 
-# source: source
-# destination: www
 sass:
   sass_dir: _scss
   style: compressed
@@ -20,7 +20,7 @@ email: jacob.rhoda@my.wheaton.edu
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://reformedatwheaton.jadar.net"
 disqus_shortname: "jadar"
-# google_analytics: UA-52446115-1
+google_analytics: UA-48951211-2
 
 # social footer
 social:
