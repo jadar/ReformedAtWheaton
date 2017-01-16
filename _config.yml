@@ -1,6 +1,7 @@
 permalink   : /:categories/:year/:title/
 markdown    : kramdown
 highlighter : pygments
+gems: [jekyll-paginate]
 
 paginate: 2 #6
 comments: true
@@ -17,9 +18,7 @@ title: Reformed at Wheaton
 description: "The thoughts of a Reformed, Wheaton College student."
 email: jacob.rhoda@my.wheaton.edu
 baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://yourdomain.com"
 url: "http://reformedatwheaton.jadar.net"
-# repository: "https://github.com/nandomoreirame/lora"
 disqus_shortname: "jadar"
 # google_analytics: UA-52446115-1
 
