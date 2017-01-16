@@ -5,4 +5,6 @@ group :development do
   gem 'sass', '~> 3.4.10'
   gem 'jekyll', '~> 3.3.1'
   gem 'jekyll-paginate'
+  gem 'rouge', '~> 1.7'
+  gem 'jekyll-watch', '~> 1.1'
 end
